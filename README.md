@@ -59,7 +59,7 @@ A responsive personal finance dashboard designed for tracking transactions, budg
 
 A modern AI SaaS landing page concept focused on clear product presentation and user experience.
 
-[![Figma](https://img.shields.io/badge/Figma-View%20Design-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)](https://www.figma.com/proto/wnujgyVpQi7QpyGemzSjBe/Landing-page?node-id=0-1&t=b9WGiRslxOtIarOO-1)
+[![Figma](https://img.shields.io/badge/Figma-View%20Design-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)](https://www.figma.com/proto/wnujgyVpQi7QpyGemzSjBe/Landing-page?node-id=0-1&t=eIGmqkWVrsI7RVNH-1yh)
 
 ---
 
@@ -67,7 +67,7 @@ A modern AI SaaS landing page concept focused on clear product presentation and 
 
 A fashion e-commerce UI/UX concept focused on a clean, modern and elevated shopping experience.
 
-[![Figma](https://img.shields.io/badge/Figma-View%20Design-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)](https://www.figma.com/proto/OBmhYqbVVPOYVdfhV7p2SD/Ecommerce?node-id=0-1&t=vvHA1jeHolwWTwDD-1)
+[![Figma](https://img.shields.io/badge/Figma-View%20Design-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)](https://www.figma.com/proto/OBmhYqbVVPOYVdfhV7p2SD/Ecommerce?node-id=0-1&t=nt9RvHidNblyaYVu-1)
 
 ---
 
@@ -75,7 +75,7 @@ A fashion e-commerce UI/UX concept focused on a clean, modern and elevated shopp
 
 A travel mobile app UI/UX concept designed around simple and intuitive trip planning.
 
-[![Figma](https://img.shields.io/badge/Figma-View%20Design-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)](https://www.figma.com/proto/fZjodrywsSUHSlsgoJ32HI/Luma?node-id=0-1&t=SRnVfmAB6KS2fh0i-1)
+[![Figma](https://img.shields.io/badge/Figma-View%20Design-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)](https://www.figma.com/proto/fZjodrywsSUHSlsgoJ32HI/Luma?node-id=0-1&t=Qujt0ZAmWvKIWeSd-1)
 
 ---
 
