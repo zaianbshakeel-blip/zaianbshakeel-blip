@@ -4,8 +4,8 @@
 
 I create responsive websites and user-focused digital experiences by combining clean frontend development with thoughtful UI/UX design. I enjoy solving real-world problems through thoughtful design, clean code, and user-centered solutions.
 
-[![LinkedIn](https://www.linkedin.com/in/zainab-shakeel-620670408/)
-[![Fiverr](https://www.fiverr.com/zainabshakee436)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/zainab-shakeel-620670408/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge\&logo=fiverr\&logoColor=white)](https://www.fiverr.com/zainabshakee436)
 
 ---
 
